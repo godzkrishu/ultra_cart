@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:ultra_cart/features/authentication/bloc/onboarding_state.dart';
-import 'package:ultra_cart/features/authentication/screens/login_screen.dart';
+import 'package:ultra_cart/features/authentication/login/screen/login_screen.dart';
 import 'package:ultra_cart/utils/constants/images.dart';
-import '../../../utils/constants/text.dart';
+import '../../../../utils/constants/text.dart';
 import '../bloc/onboarding_bloc.dart';
 import '../bloc/onboarding_event.dart';
-import '../widget/onboarding_nextbutton.dart';
-import '../widget/onboarding_pages.dart';
-import '../widget/skip_button.dart';
-import '../widget/smooth_indicator.dart';
+import '../bloc/onboarding_state.dart';
+import '../widget/widget/onboarding_nextbutton.dart';
+import '../widget/widget/onboarding_pages.dart';
+import '../widget/widget/skip_button.dart';
+import '../widget/widget/smooth_indicator.dart';
 
 class OnboardingScreen extends StatefulWidget {
   const OnboardingScreen({super.key});

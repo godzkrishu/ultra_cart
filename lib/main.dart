@@ -3,8 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:ultra_cart/utils/helpers/app_utils.dart';
 import 'package:ultra_cart/utils/local_storage/TAppStorage.dart';
 import 'package:ultra_cart/utils/theme/app_theme.dart';
-
-import 'features/authentication/screens/onboarding_screen.dart';
+import 'features/onboarding/screens/onboarding_screen.dart';
 
 void main() async {
   ////list of flow of task

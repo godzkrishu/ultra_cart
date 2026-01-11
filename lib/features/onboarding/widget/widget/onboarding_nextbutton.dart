@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import '../../../../../utils/constants/colors.dart';
+import '../../../../../utils/constants/size.dart';
+import '../../../../../utils/devices/device_utility.dart';
+import '../../../../../utils/helpers/helper_functions.dart';
 
-import '../../../utils/constants/colors.dart';
-import '../../../utils/constants/size.dart';
-import '../../../utils/devices/device_utility.dart';
-import '../../../utils/helpers/helper_functions.dart';
 
 class OnboardingNextButton extends StatelessWidget {
   final VoidCallback ontap;

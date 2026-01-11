@@ -21,8 +21,8 @@ class TImages {
   static const String tLogoImage = "assets/images/profile/logo.png";
 
   // -- SOCIAL Images
-  static const String tFacebookLogo = "assets/logo/facebook-logo.png";
-  static const String tGoogleLogo = "assets/logo/google-logo.png";
+  static const String tFacebookLogo = "assets/logos/facebook-logo.png";
+  static const String tGoogleLogo = "assets/logos/google-logo.png";
 
   // -- Forget Password Images
   static const String tForgetPasswordImage = "assets/images/forget_password/forget-password.png";

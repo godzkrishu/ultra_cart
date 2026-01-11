@@ -69,6 +69,8 @@ class TTexts {
   static const String tResetPassword = "Reset Password";
   static const String tOR = "OR";
   static const String tConnectWith = "Connect With";
+  static const String signIn = "Sign In";
+  static const String createAccount = "Create Account";
   static const String tFacebook = "Facebook";
   static const String tPhoneNumber = "Phone Number";
   static const String tGoogle = "Google";

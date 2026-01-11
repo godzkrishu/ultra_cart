@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import '../../../utils/constants/size.dart';
-import '../../../utils/devices/device_utility.dart';
+import '../../../../../utils/constants/size.dart';
+import '../../../../../utils/devices/device_utility.dart';
+
 class SkipButton extends StatelessWidget {
   final VoidCallback ontap;
   const SkipButton({
